@@ -1,7 +1,7 @@
 # Logs
 logs
 *.log
-*.svn*
+*svn*
 # Runtime data
 pids
 *.pid
